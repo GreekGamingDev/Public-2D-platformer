@@ -1,8 +1,5 @@
 # [FSM] Alpha.v0.0.2
 
 
-
-https://user-images.githubusercontent.com/122994378/213989605-221e6028-8f45-45cc-83ff-117d8d324979.mp4
-
-
+https://user-images.githubusercontent.com/122994378/213989889-6a3f01a0-40fe-4ba1-8ec7-b57d8d8e391e.mp4
 
