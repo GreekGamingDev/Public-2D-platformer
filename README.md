@@ -1,3 +1,7 @@
-# Public-2D-platformer
+# [FSM] Alpha.v0.0.2
 
-This is where ill upload just the release build of the project to keep my files secure xD
+
+
+
+https://user-images.githubusercontent.com/122994378/213989514-6ffd3da6-03b1-41ca-bf5d-5f1b8c8d3680.mp4
+
